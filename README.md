@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/pragya hurmade](https://www.linkedin.com/in/pragya-hurmade-92b028255/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragya hurmade" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pragya-hurmade-92b028255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragya hurmade" height="30" width="40" /></a>
 <a href="[https://instagram.com/_.prag.yaayy"](https://www.instagram.com/_.prag.yaayy/) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.prag.yaayy" height="30" width="40" /></a>
 </p>
 
