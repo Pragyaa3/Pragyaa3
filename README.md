@@ -26,3 +26,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyaa3&show_icons=true&locale=en" alt="pragyaa3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragyaa3&" alt="pragyaa3" /></p>
+
+
+### Badges
+<a href="https://badgr.com/public/assertions/Rg55T3GQSXqYipRKJnq16A?identity__email=pragyahurmade222">
+    <img src="https://badgr.com/public/assertions/Rg55T3GQSXqYipRKJnq16A/image" alt="Postman API Fundamentals Student Expert" width="100" height="100" />
+</a>
+<a href="https://hacktoberfest.digitalocean.com/">
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-tumbler-0-0-0.webp" alt="Hacktoberfest Level 1" width="100" height="100" />
+</a>
+<a href="https://hacktoberfest.digitalocean.com/">
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tumbler-0-0-0.webp" alt="Hacktoberfest Level 2" width="100" height="100" />
+</a>
