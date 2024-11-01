@@ -28,6 +28,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragyaa3&" alt="pragyaa3" /></p>
 
 
+[![An image of @pragyaa3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pragyaa3)](https://holopin.io/@pragyaa3)
+
 ### Badges
 <a href="https://badgr.com/public/assertions/Rg55T3GQSXqYipRKJnq16A?identity__email=pragyahurmade222">
     <img src="https://badgr.com/public/assertions/Rg55T3GQSXqYipRKJnq16A/image" alt="Postman API Fundamentals Student Expert" width="100" height="100" />
