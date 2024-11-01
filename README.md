@@ -38,3 +38,7 @@
 <a href="https://hacktoberfest.digitalocean.com/">
     <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-tumbler-0-0-0.webp" alt="Hacktoberfest Level 2" width="100" height="100" />
 </a>
+<a href="https://hacktoberfest.digitalocean.com/">
+    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-tea-robe-0-0.webp" alt="Hacktoberfest Level 3" width="100" height="100" />
+</a>
+
