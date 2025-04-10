@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyaa3&label=Profile%20views&color=0e75b6&style=flat" alt="pragyaa3" /> </p>
 
-- 🌱 I’m currently **Diving into back-end development to unlock my full-stack superpowers and create even more dynamic and powerful applications!**
+- 💻 I'm currently **On a mission to turn wild concepts into powerful web experiences — because basic is boring and average isn’t in my tech stack.**
 
 - 👯 Collaboration goal: **I'm eager to team up on projects that push the boundaries of front-end development or combine tech with creativity.**
 
