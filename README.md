@@ -10,7 +10,7 @@
 
 - 🤝 I’m passionate about **leveling up my full-stack abilities, mastering UX/UI design, fine-tuning web performance, and chasing the latest JavaScript trends to stay ahead in the tech world.**
 
-- ⚡ Fun fact **When I’m not weaving code, I’m crafting melodies—whether it’s belting out a tune or getting lost in the riffs of my guitar. Music is my jam, both literally and figuratively!**
+- ⚡ **When I’m not weaving code, I’m crafting melodies—whether it’s belting out a tune or getting lost in the riffs of my guitar. Music is my jam, both literally and figuratively!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
