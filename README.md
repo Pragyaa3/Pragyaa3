@@ -6,7 +6,7 @@
 
 - 💻 I'm currently **On a mission to turn wild concepts into powerful web experiences — because basic is boring and average isn’t in my tech stack.**
 
-- 👯 Collaboration goal: **I'm eager to team up on projects that push the boundaries of front-end development or combine tech with creativity.**
+- 👯 Collaboration goal: **I'm eager to team up on projects that push the boundaries of web development or combine tech with creativity.**
 
 - 🤝 I’m passionate about **leveling up my full-stack abilities, mastering UX/UI design, fine-tuning web performance, and chasing the latest JavaScript trends to stay ahead in the tech world.**
 
